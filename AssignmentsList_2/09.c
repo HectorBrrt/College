@@ -1,3 +1,7 @@
+/* Faça um algoritmo que receba o valor dos catetos de um triângulo retângulo, calcule e mostre o valor da
+ * hipotenusa.
+ */
+
 #include <stdio.h>
 #include <math.h>
 
