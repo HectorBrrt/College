@@ -1,3 +1,9 @@
+/* Um sistema de equações lineares do tipo: {ax + by = c} {dx + ey = f} , pode ser resolvido segundo mostrado:
+ * x = {(ce - bf) / (ae - bd)}
+ * y = {(af - cd) / (ae - bd)}
+ * Escreva um algoritmo que lê os coeficientes a, b, c, d, e e f e calcula e mostra os valores de x e y.
+ */
+
 #include <stdio.h>
 
 int main()
