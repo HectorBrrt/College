@@ -1,3 +1,8 @@
+/* Faça um algoritmo que leia o nome de um vendedor, o seu salário fixo e o valor total de vendas efetuadas
+ * por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre total de vendas
+ * efetuadas no mês, o algoritmo deve informar salário total do vendedor e seu nome.
+ */
+
 #include <stdio.h>
 
 int main()
