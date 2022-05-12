@@ -1,3 +1,5 @@
+// Construa um algoritmo que leia 5 números distintos e imprima a soma dos números ímpares.
+
 #include <stdio.h>
 
 int main()
