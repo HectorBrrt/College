@@ -1,4 +1,5 @@
-/* Ler um número inteiro de até três dígitos e imprima a saída da seguinte forma:
+/* 
+ * Ler um número inteiro de até três dígitos e imprima a saída da seguinte forma:
  * CENTENA = x 
  * DEZENA = x
  * UNIDADE = x 
